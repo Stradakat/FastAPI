@@ -66,6 +66,20 @@ The API will be available at:
 - **Interactive API Docs (Swagger)**: http://localhost:8000/docs
 - **Alternative API Docs (ReDoc)**: http://localhost:8000/redoc
 
+## Deployment
+
+The application is deployed and available at:
+
+🌐 **Live API**: https://fastapi-vs9l.onrender.com
+
+You can access the interactive API documentation at:
+- **Swagger UI**: https://fastapi-vs9l.onrender.com/docs
+- **ReDoc**: https://fastapi-vs9l.onrender.com/redoc
+
+All API endpoints are available at the base URL. For example:
+- Get all issues: `https://fastapi-vs9l.onrender.com/api/v1/issues/`
+- Create an issue: `POST https://fastapi-vs9l.onrender.com/api/v1/issues/`
+
 ## API Endpoints
 
 All endpoints are prefixed with `/api/v1/issues`
