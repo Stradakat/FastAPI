@@ -1,0 +1,9 @@
+[
+  {
+    "id": "03f6fc28-ec5f-4aa9-b20e-7b64dafd4b8c",
+    "title": "Issue One",
+    "description": "This is a test issue",
+    "priority": "medium",
+    "status": "open"
+  }
+]
